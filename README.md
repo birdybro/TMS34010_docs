@@ -11,6 +11,10 @@ Some documentation on the Texas Instruments 34010 Graphics Processor (aka TMS340
 
 [TMS34010 disassembler](https://github.com/andlabs/tms34010disasm)
 
+## Hardware
+
+[ElectronAsh's TMS34010 adapter PCB](https://github.com/ElectronAsh/TMS34010_adapter_pcb)
+
 ## Publications/articles
 
 [Famous Graphics Chips: TI TMS34010 and VRAM. The first programmable graphics processor chip](https://www.computer.org/publications/tech-news/chasing-pixels/Famous-Graphics-Chips-IBMs-professional-graphics-the-PGC-and-8514A/Famous-Graphics-Chips-TI-TMS34010-and-VRAM)
