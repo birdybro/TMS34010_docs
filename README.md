@@ -9,7 +9,9 @@ Some documentation on the Texas Instruments 34010 Graphics Processor (aka TMS340
 
 ## Tools
 
-[TMS34010 disassembler](https://github.com/andlabs/tms34010disasm)
+[TMS34010 disassembler by andlabs](https://github.com/andlabs/tms34010disasm)
+
+[TMS34010 disassembler by sajattack](https://github.com/sajattack/tms34010-asm)
 
 ## Hardware
 
