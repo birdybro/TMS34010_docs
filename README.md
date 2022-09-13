@@ -7,6 +7,10 @@ Some documentation on the Texas Instruments 34010 Graphics Processor (aka TMS340
 
 [MAME's current implementation of the chip (big endian mode isn't supported yet)](https://github.com/mamedev/mame/blob/master/src/devices/cpu/tms34010/tms34010.cpp)
 
+## Tools
+
+[TMS34010 disassembler](https://github.com/andlabs/tms34010disasm)
+
 ## Publications/articles
 
 [Famous Graphics Chips: TI TMS34010 and VRAM. The first programmable graphics processor chip](https://www.computer.org/publications/tech-news/chasing-pixels/Famous-Graphics-Chips-IBMs-professional-graphics-the-PGC-and-8514A/Famous-Graphics-Chips-TI-TMS34010-and-VRAM)
