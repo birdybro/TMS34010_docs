@@ -1,6 +1,10 @@
 # TMS34010_docs
 Some documentation on the Texas Instruments 34010 Graphics Processor (aka TMS34010) for reference
 
+## Emulation/recreation/schematics/hdl/etc...
+
+[@ZPaul2Fresh8's work on reverse engineering the chip using the NSA's Ghidra program](https://github.com/ZPaul2Fresh8/Ghidra_TMS34010)
+
 ## Publications/articles
 
 [Famous Graphics Chips: TI TMS34010 and VRAM. The first programmable graphics processor chip](https://www.computer.org/publications/tech-news/chasing-pixels/Famous-Graphics-Chips-IBMs-professional-graphics-the-PGC-and-8514A/Famous-Graphics-Chips-TI-TMS34010-and-VRAM)
