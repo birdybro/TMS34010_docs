@@ -32,3 +32,5 @@ Some documentation on the Texas Instruments 34010 Graphics Processor (aka TMS340
 [Avionics and the TMS34020](https://tms34020.uav.nl/)
 
 [The TMS34010 as used in Amiga equipment](http://www.amiga-stuff.com/hardware/tms34010.html)
+
+[Taking the Wraps off the 34020](https://www.ardent-tool.com/video/Unwrapping_34020.html)
